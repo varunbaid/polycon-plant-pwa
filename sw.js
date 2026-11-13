@@ -1,4 +1,4 @@
-const CACHE = 'polycon-plant-v1';
+const CACHE = 'polycon-plant-v2';
 const ASSETS = [
   './',
   './index.html',
